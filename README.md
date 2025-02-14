@@ -14,4 +14,5 @@ SQL Advanced Questions
 | [0197-rising-temperature](https://github.com/pranatim19/LeetCode-Problems/tree/master/0197-rising-temperature) |
 | [0584-find-customer-referee](https://github.com/pranatim19/LeetCode-Problems/tree/master/0584-find-customer-referee) |
 | [0595-big-countries](https://github.com/pranatim19/LeetCode-Problems/tree/master/0595-big-countries) |
+| [0596-classes-more-than-5-students](https://github.com/pranatim19/LeetCode-Problems/tree/master/0596-classes-more-than-5-students) |
 <!---LeetCode Topics End-->
