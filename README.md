@@ -19,4 +19,5 @@ SQL Advanced Questions
 | [0619-biggest-single-number](https://github.com/pranatim19/LeetCode-Problems/tree/master/0619-biggest-single-number) |
 | [0620-not-boring-movies](https://github.com/pranatim19/LeetCode-Problems/tree/master/0620-not-boring-movies) |
 | [0627-swap-salary](https://github.com/pranatim19/LeetCode-Problems/tree/master/0627-swap-salary) |
+| [1153-product-sales-analysis-i](https://github.com/pranatim19/LeetCode-Problems/tree/master/1153-product-sales-analysis-i) |
 <!---LeetCode Topics End-->
