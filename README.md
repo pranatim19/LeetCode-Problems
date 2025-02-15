@@ -17,4 +17,5 @@ SQL Advanced Questions
 | [0596-classes-more-than-5-students](https://github.com/pranatim19/LeetCode-Problems/tree/master/0596-classes-more-than-5-students) |
 | [0610-triangle-judgement](https://github.com/pranatim19/LeetCode-Problems/tree/master/0610-triangle-judgement) |
 | [0619-biggest-single-number](https://github.com/pranatim19/LeetCode-Problems/tree/master/0619-biggest-single-number) |
+| [0620-not-boring-movies](https://github.com/pranatim19/LeetCode-Problems/tree/master/0620-not-boring-movies) |
 <!---LeetCode Topics End-->
