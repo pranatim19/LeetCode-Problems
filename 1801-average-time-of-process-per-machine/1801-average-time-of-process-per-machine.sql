@@ -1,13 +1,8 @@
 select machine_id ,
-
- Round(
-
-    ( sum(case when activity_type = 'end' then timestamp else 0 end) - 
+Round(
+( sum(case when activity_type = 'end' then timestamp else 0 end) - 
      sum(case when activity_type = 'start' then timestamp else 0 end) ) / (count(*)/2)
-     
-
-     ,3
+    ,3
  ) as processing_time
-
- from activity
+from activity
  group by machine_id;
